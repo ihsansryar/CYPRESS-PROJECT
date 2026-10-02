@@ -1,4 +1,4 @@
-describe('tes latihan Ican', () => {
+describe('tes latihan Ican Lagi', () => {
     it('Harus mengisi email', () => {
         cy.visit('https://example.cypress.io/commands/actions')
         cy.url().should('include', 'commands/actions')
